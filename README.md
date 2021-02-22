@@ -1,9 +1,9 @@
 # quiztwo
 
-##Descripttion
+## Descripttion
     This is an app with Fluttler an quiz to implement StatelessWidget and parctice StatefulWidget
 
-##Image
+## Image
 
 ![](https://i.postimg.cc/RCsRNbtG/Grabaci-n-de-pantalla-2021-02-22-a-la-s-5-19-52-p-m.gif)
 
